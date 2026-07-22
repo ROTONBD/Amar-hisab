@@ -1,0 +1,6 @@
+{
+  "name": "আমার হিসাব",
+  "description": "আইএসপি, ইন্টারনেট ও ওয়াইফাই ব্যবসার দৈনিক আয়-ব্যয় এবং গ্রাহক বিল আদায়ের হিসাব রাখার জন্য সহজ, নিরাপদ ও ডিজিটাল ক্যাশ লেজার খাতা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
